@@ -15,3 +15,6 @@ the following link: https://goo.gl/udFiuu
 Unfortunately, the standalone application will only work on Windows. For MAC OSX user,
 please execute the 'numerolgy.py' file found in the 'Source Code' folder using Python Shell
 installed in your system. To see the sample result, please navigate to the 'Sample Result' folder.
+
+== Sample Result ==
+![sample_result](https://github.com/vinsensiusfernandi/Numerology/blob/master/Sample%20Result/Numerology.PNG)
